@@ -21,8 +21,7 @@ Clone the repository and run the script:
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/HandTrackPy.git
-cd HandTrackPy
-python hand_track.py
+python app.py
 ```
 
 ## 🛠️ How It Works
