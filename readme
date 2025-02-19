@@ -1,1 +1,129 @@
+Skip to content
+Navigation Menu
+KrishBharadwaj5678
+HandTrackPy
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+HandTrackPy
+/
+readme
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+No wrap
+Editing readme file contents
+Selection deleted
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+# HandTrackPy
+
+HandTrackPy is a Python script that uses computer vision to detect and track hands in real-time. This project leverages OpenCV and MediaPipe to provide efficient and accurate hand tracking for various applications like gesture recognition, virtual controls, and more.
+
+## Features
+- Real-time hand detection and tracking
+- Multi-hand support
+- Finger and palm landmark detection
+- Lightweight and easy to integrate into projects
+- Customizable for gesture-based applications
+
+## Installation
+
+### Prerequisites
+Ensure you have Python 3 installed on your system. You will also need the following dependencies:
+
+```bash
+pip install opencv-python mediapipe numpy
+```
+
+## Usage
+Clone the repository and run the script:
+
+```bash
+git clone https://github.com/yourusername/HandTrackPy.git
+cd HandTrackPy
+python hand_track.py
+```
+
+## How It Works
+The script utilizes **MediaPipe Hands**, a deep-learning-based solution for hand tracking, to detect and analyze hand landmarks in real-time.
+
+## Example Output
+Once you run the script, your webcam will open, and detected hands will be highlighted with key points and bounding boxes.
+
+## Contributing
+Feel free to fork the repository and submit pull requests to improve HandTrackPy!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or suggestions, reach out to [your email or GitHub profile].
+
 Hand
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Editing HandTrackPy/readme at main · KrishBharadwaj5678/HandTrackPy
