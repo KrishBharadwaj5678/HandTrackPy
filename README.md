@@ -17,19 +17,20 @@ pip install opencv-python mediapipe
 ```
 
 ## 🚀 Usage
-Clone the repository and run the script:
 
+### Clone the repository
 ```bash
 git clone https://github.com/KrishBharadwaj5678/HandTrackPy.git
+```
+
+### Run the script
+```bash
 python app.py
 ```
 
 ## 🛠️ How It Works
 The script utilizes **MediaPipe Hands**, a deep-learning-based solution for hand tracking, to detect and analyze hand landmarks in real-time.
 
-## 📸 Example Output
-![Hand Tracking Screenshot](https://github.com/yourusername/HandTrackPy/blob/main/screenshot.png)
-Once you run the script, your webcam will open, and detected hands will be highlighted with key points and bounding boxes.
-
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests to improve HandTrackPy!
+
