@@ -1,9 +1,8 @@
 # ✋ HandTrackPy
 
-## 📸 Example Output
-![Hand Tracking](https://github.com/KrishBharadwaj5678/HandTrackPy/blob/main/HandTracking.png?raw=true)
-
 HandTrackPy is a Python script that uses computer vision to detect and track hands in real-time. This project leverages OpenCV and MediaPipe to provide efficient and accurate hand tracking for various applications like gesture recognition, virtual controls, and more.
+
+![Hand Tracking](https://github.com/KrishBharadwaj5678/HandTrackPy/blob/main/HandTracking.png?raw=true)
 
 ## ✨ Features
 - 🎥 Real-time hand detection and tracking
