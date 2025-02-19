@@ -12,11 +12,8 @@ HandTrackPy is a  Python script that uses computer vision to detect and track ha
 
 ## 📥 Installation
 
-### Prerequisites
-Ensure you have Python 3 installed on your system. You will also need the following dependencies:
-
 ```bash
-pip install opencv-python mediapipe numpy
+pip install opencv-python mediapipe
 ```
 
 ## 🚀 Usage
