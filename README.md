@@ -4,13 +4,20 @@ HandTrackPy is a Python script that uses computer vision to detect and track han
 
 ![Hand Tracking](https://github.com/KrishBharadwaj5678/HandTrackPy/blob/main/HandTracking.png?raw=true)
 
+---
+
 ## ✨ Features
-- 🎥 Real-time hand detection and tracking
-- ✋ Multi-hand support
-- ⏳ Displays FPS (Frames Per Second) for performance monitoring
-- 🖐️ Finger and palm landmark detection
-- ⚡ Lightweight and easy to integrate into projects
-- 🛠️ Customizable for gesture-based applications
+
+| Feature 🧩                     | Description 📋                                             |
+| ------------------------------ | ---------------------------------------------------------- |
+| 🎥 **Real-Time Hand Tracking** | Detect and track hands in real time using webcam input.    |
+| ✋ **Multi-Hand Support**       | Supports detection of multiple hands simultaneously.       |
+| ⏳ **FPS Display**              | Shows Frames Per Second for performance monitoring.        |
+| 🖐️ **Landmark Detection**     | Detects finger and palm landmarks for gesture recognition. |
+| ⚡ **Lightweight**              | Easy to integrate into other Python projects.              |
+| 🛠️ **Customizable**           | Can be adapted for various gesture-based applications.     |
+
+---
 
 ## 📥 Installation
 
