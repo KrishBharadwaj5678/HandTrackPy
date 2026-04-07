@@ -4,11 +4,9 @@ HandTrackPy is a Python script that uses computer vision to detect and track han
 
 ![Hand Tracking](https://github.com/KrishBharadwaj5678/HandTrackPy/blob/main/HandTracking.png?raw=true)
 
----
-
 ## ✨ Features
 
-| Feature 🧩                     | Description 📋                                             |
+| Feature                       | Description                                               |
 | ------------------------------ | ---------------------------------------------------------- |
 | 🎥 **Real-Time Hand Tracking** | Detect and track hands in real time using webcam input.    |
 | ✋ **Multi-Hand Support**       | Supports detection of multiple hands simultaneously.       |
@@ -19,27 +17,29 @@ HandTrackPy is a Python script that uses computer vision to detect and track han
 
 ---
 
-## 📥 Installation
+## 🛠️ Installation 
 
-```bash
-pip install opencv-python mediapipe
-```
+1. Clone the repo:
 
-## 🚀 Usage
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/HandTrackPy.git
+   cd HandTrackPy
+   ```
 
-### Clone the repository
-```bash
-git clone https://github.com/KrishBharadwaj5678/HandTrackPy.git
-```
+2. Install dependencies:
 
-### Run the script
-```bash
-python app.py
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## 🛠️ How It Works
-The script utilizes **MediaPipe Hands**, a deep-learning-based solution for hand tracking, to detect and analyze hand landmarks in real-time.
+---
 
-## 🤝 Contributing
-Feel free to fork the repository and submit pull requests to improve HandTrackPy!
+## Contributing 🤝
 
+Want to contribute? Here's how:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
