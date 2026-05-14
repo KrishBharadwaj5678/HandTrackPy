@@ -19,18 +19,29 @@ HandTrackPy is a Python script that uses computer vision to detect and track han
 
 ## 🛠️ Installation 
 
-1. Clone the repo:
+### 1️⃣ Clone the Repository
 
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/HandTrackPy.git
-   cd HandTrackPy
-   ```
+```bash
+git clone https://github.com/KrishBharadwaj5678/HandTrackPy.git
+````
 
-2. Install dependencies:
+### 2️⃣ Navigate to the Folder
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+cd HandTrackPy
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Application
+
+```bash
+python app.py
+```
 
 ---
 
