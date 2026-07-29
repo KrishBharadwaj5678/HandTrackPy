@@ -1,10 +1,31 @@
-# ✋ HandTrackPy
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/HandTrackPy.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/HandTrackPy?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/HandTrackPy?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/HandTrackPy?style=for-the-badge&color=blue" />
+</p>
 
-HandTrackPy is a Python script that uses computer vision to detect and track hands in real-time. This project leverages OpenCV and MediaPipe to provide efficient and accurate hand tracking.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-![Hand Tracking](https://github.com/KrishBharadwaj5678/HandTrackPy/blob/main/HandTracking.png?raw=true)
+<h1 align="center">✋ HandTrackPy</h1>
 
-## ✨ Features
+<p align="center">
+  HandTrackPy is a real-time hand tracking application built with Python that uses OpenCV and MediaPipe to detect, track, and analyze hand movements with high accuracy and low latency.
+</p>
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/HandTrackPy/blob/main/HandTracking.png?raw=true" width="500px"/>
+</p>
+
+<img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature                       | Description                                               |
 | ------------------------------ | ---------------------------------------------------------- |
@@ -15,9 +36,19 @@ HandTrackPy is a Python script that uses computer vision to detect and track han
 | ⚡ **Lightweight**              | Easy to integrate into other Python projects.              |
 | 🛠️ **Customizable**           | Can be adapted for various gesture-based applications.     |
 
----
+<img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Installation 
+## <img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
+
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core programming language used to build the application |
+| <img src="https://cdn.simpleicons.org/opencv" width="25"/> **OpenCV** | Performs image processing, video capture, and computer vision tasks |
+| <img src="https://cdn.simpleicons.org/mediapipe" width="25"/> **MediaPipe** | Detects and tracks hands, face, pose, and other landmarks in real time |
+
+<img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -43,14 +74,15 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/HandTrackPy/raw/main/assets/readme/footer.gif" width="300px"/>
+</p>
+
